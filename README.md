@@ -17,8 +17,7 @@ A dice rolling bot with slash commands, the ability to roll up to 1000 dice with
 Start with `/dyson` for a general idea of how to use Dyson. This command lists all of Dyson's commands, and has buttons that roll the most common polyhedral dice. 
 
 <p align="center">
-    <img src="https://media.discordapp.net/attachments/1093533763184644117/1093558928756973578/dyson.gif](https://media.discordapp.net/attachments/1093533763184644117/1093558928756973578/dyson.gif">
-    <img src="">
+    <img src="https://media.discordapp.net/attachments/1093533763184644117/1093558928756973578/dyson.gif">
 </p>
 
 ## Roll Dice! 🎲
