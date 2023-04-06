@@ -17,7 +17,7 @@ A dice rolling bot with slash commands, the ability to roll up to 1000 dice with
 Start with `/dyson` for a general idea of how to use Dyson. This command lists all of Dyson's commands, and has buttons that roll the most common polyhedral dice. 
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1093533763184644117/1093558928333340792/flip.gif">
+    <img src="https://cdn.discordapp.com/attachments/1093533763184644117/1093558928333340792/flip.gif">
 </p>
 
 ## Roll Dice! 🎲
@@ -31,21 +31,21 @@ Use `/roll` to roll dice up to 1000 dice with up to 1000 sides. This command has
 • **Divide (Optional).** Divide your roll by a number by placing it in the *divide* optional field. <br>
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1093533763184644117/1093558929188978698/roll.gif">
+    <img src="https://media.discordapp.net/attachments/1093533763184644117/1093558929188978698/roll.gif">
 </p>
 
 ## Draw Cards! 🃏
 Use `/draw` to draw a playing card, and `/tarot` to draw a tarot card. Major Arcana cards drawn with `/tarot` have pictures of the card attached. 
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1093533763184644117/1093558929579053157/draw.gif">
+    <img src="https://media.discordapp.net/attachments/1093533763184644117/1093558929579053157/draw.gif">
 </p>
 
 ## Flip A Coin! 🪙
 Use `/flip` to flip a coin!
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1093533763184644117/1093558928333340792/flip.gif">
+    <img src="https://media.discordapp.net/attachments/1093533763184644117/1093558928333340792/flip.gif">
 </p>
 
 ## Invite Dyson! 👋
