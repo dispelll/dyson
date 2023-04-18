@@ -6,7 +6,7 @@
 <a href="https://opensource.org/license/mit/">
     <img src="https://img.shields.io/bower/l/vista" alt="License: MIT">
 </a>
-<a href=">https://discord.com/api/oauth2/authorize?client_id=1092544591472889897&permissions=277025458240&scope=applications.commands%20bot">
+<a href="https://discord.com/api/oauth2/authorize?client_id=1092544591472889897&permissions=277025458240&scope=applications.commands%20bot">
     <img src=https://img.shields.io/badge/Invite-Invite%20Dyson%20To%20Your%20Server!-5865F2>
 </a>
 
